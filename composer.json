@@ -1,0 +1,10 @@
+{
+  "name": "brandontamm/wp-mod-revslider",
+  "description": "Fork of https://github.com/FuckEnvato/revslider",
+  "homepage": "http://github.com/brandontamm/wp-mod-revslider",
+  "author": {"name": "Brandon Tamm","email": "brandon.tamm@gmail.com","homepage": "http://www.brandontamm.com"},
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "*"
+  }
+}
